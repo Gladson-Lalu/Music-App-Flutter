@@ -1,9 +1,9 @@
 ## Clone-Spotify
 
 
-- Dependencies
-flutter_icons
-page_transitions
+Dependencies
+- flutter_icons
+- page_transitions
 
 
 
