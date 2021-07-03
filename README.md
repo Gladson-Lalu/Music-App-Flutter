@@ -1,13 +1,31 @@
-## Clone-Spotify
+# Spotify Clone
+
+**This is Spotify clone using Flutter**
+Star⭐ the repo if you like what you see😉.
+
+Currently, a music streaming backend is being developed to integrate with Front End
+
+<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1616194339/22385/camera_photo.gif?1616194339" align="center"
+                width="28" /> Screenshots</h2> </summary>
 
 
-Dependencies
+&nbsp;                    |  &nbsp;
+:-------------------------|:-------------------------
+![](Screenshots/pic_1.png)  |  ![](Screenshots/pic_2.png)
+![](Screenshots/pic_4.png)  |  ![](Screenshots/pic_5.png)
+![](Screenshots/pic_6.png)  |  ![](Screenshots/pic_3.png)
+![](Screenshots/pic_7.png)  |  ![](Screenshots/pic_8.png)
+![](Screenshots/pic_9.png)  |  ![](Screenshots/pic_10.png)
+
+
+<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1619915807/34981/ninja-star.gif?1619915807" align="center"
+                width="28" /> Dependencies</h2> </summary>
+
 - flutter_icons
 - page_transitions
+<br>
 
-
-
- ## Getting Started
+ ### Getting Started
 
 This project is a starting point for a Flutter application.
 
