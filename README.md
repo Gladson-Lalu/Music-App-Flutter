@@ -1,9 +1,9 @@
 # Spotify Clone
 
-**This is Spotify clone using Flutter**
-Star⭐ the repo if you like what you see😉.
+**This is a Music App using Flutter**
 
-Currently, a music streaming backend is being developed to integrate with Front End
+- UI is Inspired from Spotify
+- Currently, a music streaming backend is being developed to integrate with Front End
 
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1616194339/22385/camera_photo.gif?1616194339" align="center"
                 width="28" /> Screenshots</h2> </summary>
