@@ -3,8 +3,8 @@ import 'package:flutter/rendering.dart';
 import 'package:gd_music/assets/songs_json.dart';
 
 Widget genreSection({
-  List genreList,
-  TextStyle style,
+  required List genreList,
+  required TextStyle style,
 }) {
   TextStyle _style =
       TextStyle(color: Colors.white, fontSize: 14, fontWeight: FontWeight.w600);

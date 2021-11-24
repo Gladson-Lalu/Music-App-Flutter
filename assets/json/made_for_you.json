@@ -1,0 +1,187 @@
+{
+    "title": "Made for you",
+    "songs": [
+        {
+            "img": "assets/images/img_6.jpg",
+            "title": "Chill Hits",
+            "description": "Kick back to the best new and recent chill tunes.",
+            "color": "FFa4c4d3",
+            "songs": [
+                {
+                    "title": "Imagination",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Home_",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Do I Wanna Know?",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Whiskey Sour",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Decisions",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Trees",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Earth",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                }
+            ]
+        },
+        {
+            "img": "assets/images/img_1.jpg",
+            "title": "Dark & Stormy",
+            "description": "Beautifully dark, dramatic tracks.",
+            "color": "FF5e4f78",
+            "song_url": "songs/1.mp3",
+            "songs": [
+                {
+                    "title": "Kaleidoscope",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Larks",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Homeland",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Une Danse",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Almonte",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Days Like These",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "In questo momento",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                }
+            ]
+        },
+        {
+            "img": "assets/images/img_8.jpg",
+            "title": "Feel Good Piano",
+            "description": "Positive piano music",
+            "color": "FFa4c1ad",
+            "songs": [
+                {
+                    "title": "Escaping Time",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Just Look at You",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Flowing",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "With Resolve",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Infinite Sustain",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Ingénue",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Hidden Chambers",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                }
+            ]
+        },
+        {
+            "img": "assets/images/img_9.jpg",
+            "title": "Sad Songs",
+            "description": "Beautiful songs to break your heart...",
+            "color": "FFd9e3ec",
+            "song_url": "songs/1.mp3",
+            "songs": [
+                {
+                    "title": "Imagination",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Home_",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Do I Wanna Know?",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Whiskey Sour",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Decisions",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Trees",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Earth",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                }
+            ]
+        },
+        {
+            "img": "assets/images/img_10.jpg",
+            "title": "Mood Booster",
+            "description": "Get happy with today's dose of feel-good songs",
+            "color": "FF4e6171",
+            "songs": [
+                {
+                    "title": "Imagination",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Home_",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Do I Wanna Know?",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Whiskey Sour",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Decisions",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Trees",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                },
+                {
+                    "title": "Earth",
+                    "song_url": "https://talkglitz.media/wp-content/uploads/2018/07/Ed_Sheeran_-_Shape_Of_You_talkglitz.tv.mp3"
+                }
+            ]
+        }
+    ]
+}

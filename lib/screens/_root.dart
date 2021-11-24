@@ -1,15 +1,15 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:gd_music/assets/constants.dart';
-import 'package:gd_music/screens/home_page.dart';
-import 'package:gd_music/screens/library_page.dart';
-import 'package:gd_music/screens/music_page.dart';
-import 'package:gd_music/screens/search_page.dart';
+import 'package:gd_music/screens/home/home_page.dart';
+import 'package:gd_music/screens/library/library_page.dart';
+import 'package:gd_music/screens/local_music/local_music_page.dart';
+import 'package:gd_music/screens/search/search_page.dart';
 
 class RootApp extends StatefulWidget {
   @override
   _RootAppState createState() => _RootAppState();
+  static int isPlayingGlobally = -1;
 }
 
 class _RootAppState extends State<RootApp> {
@@ -62,10 +62,10 @@ class _RootAppState extends State<RootApp> {
                 icon: Padding(
                   padding: EdgeInsets.fromLTRB(0, 2, 0, 5),
                   child: Icon(
-                    navigationIcons[index]["Icons"],
+                    navigationIcons[index]["Icons"] as IconData,
                   ),
                 ),
-                label: navigationIcons[index]["label"])),
+                label: navigationIcons[index]["label"] as String)),
       ),
     );
   }

@@ -18,13 +18,17 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   flutter_icons: ^1.1.0
   page_transition: "^2.0.2"
+  audioplayers: ^0.20.1
+  fluttertoast: ^8.0.8
+  flutter_audio_query: ^0.3.5+6
+  palette_generator: ^0.3.2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -48,6 +52,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
    - assets/images/
+   - assets/json/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -63,10 +68,10 @@ flutter:
   fonts:
      - family: Spotify
        fonts:
-           - asset: fonts/Gotham-Medium.otf
+           - asset: assets/fonts/Gotham-Medium.otf
      - family: SpotifyLight
        fonts:
-           - asset: fonts/Gotham-Light.otf
+           - asset: assets/fonts/Gotham-Light.otf
 
 
   #   - family: Trajan Pro

@@ -36,8 +36,6 @@ final List<Color> colors = [
   Color(0xff867647)
 ];
 
-
-
 const Map songsJson1 = {
   "title": "Discover",
   "songs": [
@@ -45,36 +43,37 @@ const Map songsJson1 = {
       "img": "assets/images/img_2.jpg",
       "title": "Chill Lofi Study Beats",
       "description": "The perfect study beats, twenty four seven.",
-      "song_count": "317 songs",
-      "date": "about 11 hr",
       "color": Color(0xFF93689a),
-      "song_url": "songs/1.mp3",
       "songs": [
-        {"title": "Imagination", "duration": "1:21"},
-        {"title": "Home_", "duration": "2:17"},
-        {"title": "Do I Wanna Know?", "duration": "1:31"},
-        {"title": "Whiskey Sour", "duration": "1:42"},
-        {"title": "Decisions", "duration": "1:29"},
-        {"title": "Trees", "duration": "1:51"},
-        {"title": "Earth", "duration": "1:39"},
+        {"title": "Imagination", "song_url": "songs/1.mp3"},
+        {"title": "Home_", "song_url": "songs/1.mp3"},
+        {"title": "Do I Wanna Know?", "song_url": "songs/1.mp3"},
+        {"title": "Whiskey Sour", "song_url": "songs/1.mp3"},
+        {"title": "Decisions", "song_url": "songs/1.mp3"},
+        {"title": "Trees", "song_url": "songs/1.mp3"},
+        {
+          "title": "Earth",
+          "song_url": "songs/1.mp3",
+        },
       ]
     },
     {
       "img": "assets/images/img_4.jpg",
       "title": "Lo-Fi Beats",
       "description": "Beats to relax, study and focus.",
-      "song_count": "599 songs",
-      "date": "about 21 hr",
       "color": Color(0xFFbad6ec),
       "song_url": "songs/2.mp3",
       "songs": [
-        {"title": "Imagination", "duration": "1:21"},
-        {"title": "Home_", "duration": "2:17"},
-        {"title": "Do I Wanna Know?", "duration": "1:31"},
-        {"title": "Whiskey Sour", "duration": "1:42"},
-        {"title": "Decisions", "duration": "1:29"},
-        {"title": "Trees", "duration": "1:51"},
-        {"title": "Earth", "duration": "1:39"},
+        {"title": "Imagination", "song_url": "songs/1.mp3"},
+        {"title": "Home_", "song_url": "songs/1.mp3"},
+        {"title": "Do I Wanna Know?", "song_url": "songs/1.mp3"},
+        {"title": "Whiskey Sour", "song_url": "songs/1.mp3"},
+        {"title": "Decisions", "song_url": "songs/1.mp3"},
+        {"title": "Trees", "song_url": "songs/1.mp3"},
+        {
+          "title": "Earth",
+          "song_url": "songs/1.mp3",
+        },
       ]
     },
     {
@@ -96,8 +95,6 @@ const Map songsJson1 = {
       "img": "assets/images/img_7.jpg",
       "title": "Deep Focus",
       "description": "Keep calm and focus with ambient and post-rock music.",
-      "song_count": "195 songs",
-      "date": "about 10 hr",
       "color": Color(0xFF58546c),
       "song_url": "songs/1.mp3",
       "songs": [
@@ -110,13 +107,10 @@ const Map songsJson1 = {
         {"title": "Hidden Chambers", "duration": "2:49"},
       ]
     },
-
     {
       "img": "assets/images/img_3.jpg",
       "title": "Feelin' Good",
       "description": "Feel good with this positively timeless playlist!",
-      "song_count": "100 songs",
-      "date": "about 19 hr",
       "color": Color(0xFFf69129),
       "song_url": "songs/1.mp3",
       "songs": [
@@ -129,7 +123,6 @@ const Map songsJson1 = {
         {"title": "Earth", "duration": "1:39"},
       ]
     },
-
   ]
 };
 
@@ -140,8 +133,6 @@ const Map songsJson2 = {
       "img": "assets/images/img_6.jpg",
       "title": "Chill Hits",
       "description": "Kick back to the best new and recent chill tunes.",
-      "song_count": "130 songs",
-      "date": "about 7 hr",
       "color": Color(0xFFa4c4d3),
       "song_url": "songs/2.mp3",
       "songs": [
@@ -158,8 +149,6 @@ const Map songsJson2 = {
       "img": "assets/images/img_1.jpg",
       "title": "Dark & Stormy",
       "description": "Beautifully dark, dramatic tracks.",
-      "song_count": "50 songs",
-      "date": "about 17 hr",
       "color": Color(0xFF5e4f78),
       "song_url": "songs/1.mp3",
       "songs": [
@@ -176,8 +165,6 @@ const Map songsJson2 = {
       "img": "assets/images/img_8.jpg",
       "title": "Feel Good Piano",
       "description": "Positive piano music",
-      "song_count": "69 songs",
-      "date": "2 hr 14 min",
       "color": Color(0xFFa4c1ad),
       "song_url": "songs/2.mp3",
       "songs": [
@@ -194,8 +181,6 @@ const Map songsJson2 = {
       "img": "assets/images/img_9.jpg",
       "title": "Sad Songs",
       "description": "Beautiful songs to break your heart...",
-      "song_count": "60 songs",
-      "date": "3 hr 25 min",
       "color": Color(0xFFd9e3ec),
       "song_url": "songs/1.mp3",
       "songs": [
@@ -212,8 +197,6 @@ const Map songsJson2 = {
       "img": "assets/images/img_10.jpg",
       "title": "Mood Booster",
       "description": "Get happy with today's dose of feel-good songs",
-      "song_count": "75 songs",
-      "date": "3 hr 56 min",
       "color": Color(0xFF4e6171),
       "song_url": "songs/2.mp3",
       "songs": [
@@ -231,42 +214,20 @@ const Map songsJson2 = {
 
 const Map artistJson = {
   "title": "Your favorite artist",
-  "songs":[
-    {
-      "img": "assets/images/justinbieber.jpg",
-      "title": "Justin Bieber"
-    },
-    {
-      "img": "assets/images/ArianaGrande.jpg",
-      "title": "Ariana Grande"
-    },
-    {
-      "img": "assets/images/BileshEilish.jpg",
-      "title": "Bilesh Eilish"
-    },
-    {
-      "img": "assets/images/DuaLipa.jpg",
-      "title": "Dua Lipa"
-    },
-    {
-      "img": "assets/images/Halsey.jpg",
-      "title": "Halsey"
-    },
-    {
-      "img": "assets/images/NiallHoran.jpg",
-      "title": "Niall Horan"
-    },
-    {
-      "img": "assets/images/Shawnmendes.jpg",
-      "title": "Shawn Mendes"
-    }
-
+  "songs": [
+    {"img": "assets/images/justinbieber.jpg", "title": "Justin Bieber"},
+    {"img": "assets/images/ArianaGrande.jpg", "title": "Ariana Grande"},
+    {"img": "assets/images/BileshEilish.jpg", "title": "Bilesh Eilish"},
+    {"img": "assets/images/DuaLipa.jpg", "title": "Dua Lipa"},
+    {"img": "assets/images/Halsey.jpg", "title": "Halsey"},
+    {"img": "assets/images/NiallHoran.jpg", "title": "Niall Horan"},
+    {"img": "assets/images/Shawnmendes.jpg", "title": "Shawn Mendes"}
   ]
 };
 
 const Map chartsJson = {
   "title": "Charts",
-  "songs":[
+  "songs": [
     {
       "img": "assets/images/viral_50.jpg",
       "description": "Your daily update of the most viral tracks"
@@ -296,50 +257,43 @@ const Map chartsJson = {
 
 const Map podcastsJson = {
   "title": "Podcasts for you",
-  "songs":[
+  "songs": [
     {
       "img": "assets/images/pic8.jpg",
-      "description":"Podcasts . Best of 2016 Latino Radar"
+      "description": "Podcasts . Best of 2016 Latino Radar"
     },
-    {
-      "img": "assets/images/pic14.jfif",
-      "description":"Podcasts . TED"
-    },
-    {
-      "img": "assets/images/pic15.jfif",
-      "description":"Podcasts . Jay Shetty"
-    },
+    {"img": "assets/images/pic14.jfif", "description": "Podcasts . TED"},
+    {"img": "assets/images/pic15.jfif", "description": "Podcasts . Jay Shetty"},
     {
       "img": "assets/images/pic16.jpg",
-      "description":"Podcasts . The Write Life"
+      "description": "Podcasts . The Write Life"
     },
-    {
-      "img": "assets/images/pic17.jfif",
-      "description":"Podcasts . PKSpeaks"
-    },
-    {
-      "img": "assets/images/pic18.jpg",
-      "description":"Podcasts . Judda"
-    },
+    {"img": "assets/images/pic17.jfif", "description": "Podcasts . PKSpeaks"},
+    {"img": "assets/images/pic18.jpg", "description": "Podcasts . Judda"},
   ]
 };
 
 const Map indianPlaylistJson = {
   "title": "Top Playlists India",
   "songs": [
-    { "img": "assets/images/pic11.jpg",
+    {
+      "img": "assets/images/pic11.jpg",
       "description": "Hottest Hindi music served here."
     },
-    { "img": "assets/images/pic12.jfif",
+    {
+      "img": "assets/images/pic12.jfif",
       "description": "These radiant Bollywood will keep you comming back."
     },
-    { "img": "assets/images/pic4.jpg",
+    {
+      "img": "assets/images/pic4.jpg",
       "description": "Gentle Indie songs for a relaxed dinner."
     },
-    { "img": "assets/images/pic10.jpg",
+    {
+      "img": "assets/images/pic10.jpg",
       "description": "Greatest Hits of Arijit Singh."
     },
-    { "img": "assets/images/pic13.jpg",
+    {
+      "img": "assets/images/pic13.jpg",
       "description": "Most Favorites Hindi songs 2021"
     }
   ]
