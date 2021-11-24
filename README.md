@@ -2,8 +2,9 @@
 
 **This is a Music App using Flutter**
 
-- UI is Inspired from Spotify
-- Currently, a music streaming backend is being developed to integrate with Front End
+- Inspired by Spotify's UI
+- Fully functional application
+- Supports playing music from the Internet and internal storage
 
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1616194339/22385/camera_photo.gif?1616194339" align="center"
                 width="28" /> Screenshots</h2> </summary>
@@ -21,7 +22,11 @@
                 width="28" />  Dependencies</h2> </summary>
 
   - flutter_icons
-  - page_transitions
+  - page_transition
+  - palette_generator
+  - audioplayers
+  - fluttertoast
+  - flutter_audio_query
 <br>
 
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1615403124/19001/githubloading.gif?1615403124" align="center"
