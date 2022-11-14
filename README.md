@@ -1,4 +1,4 @@
-# Spotify Clone
+# GD Music
 
 **This is a Music App using Flutter**
 
